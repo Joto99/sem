@@ -1,6 +1,9 @@
 Hi
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Joto99/sem/main.yml?branch=master)
+Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Joto99/sem/main.yml?branch=master)
+
+# Software Engineering Methods
+Develop Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Joto99/sem/main.yml?branch=develop)
 
 [![LICENSE](https://img.shields.io/github/license/<github-username>/sem.svg?style=flat-square)](https://github.com/Joto99/sem/blob/master/LICENSE)
 
